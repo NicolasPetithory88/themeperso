@@ -47,7 +47,7 @@ Clone the project
 <!-- Contact -->
 ## :handshake: Contact
 
-- [LinkedIn]([https://www.linkedin.com/in/nicolas-petithory/)
+- [LinkedIn](https://www.linkedin.com/in/nicolas-petithory/)
 - [Twitter](https://twitter.com/NPetithory) 
 
 
