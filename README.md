@@ -14,18 +14,10 @@ This is my first Wordpress theme, free for use.
 <!-- Env Variables -->
 ### :key: Environment
 
-To run this project, you will need to add the following tools
+To run this project, you will need to add the following tools :
 
-`Visual studio code`
-`Wordpress`
-
-<details>
- 
-  <ul>
-    <li><a href="https://capitainewp.io/formations/developper-theme-wordpress/templates-parts">CAPITAINE WP</a></li>
-    <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
-  </ul>
-</details>
+<li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+<li><a href="https://wordpress.org/">Wordpress</a></li>
 
 
 <!-- Features -->
@@ -55,7 +47,11 @@ Clone the project
 <!-- Contact -->
 ## :handshake: Contact
 
-- [LinkedIn](www.linkedin.com/in/nicolas-petithory/)
+- [LinkedIn](https://www.linkedin.com/in/nicolas-petithory/)
 - [Twitter](https://twitter.com/NPetithory) 
+
+
+## :warning: License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.
 
 
