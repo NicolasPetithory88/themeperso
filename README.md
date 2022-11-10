@@ -11,9 +11,13 @@ This is my first Wordpress theme, free for use.
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
 </div>
 
+<!-- Env Variables -->
+### :key: Environment
 
-<!-- TechStack -->
-### :space_invader: Tech Stack
+To run this project, you will need to add the following tools
+
+`Visual studio code`
+`Wordpress`
 
 <details>
  
@@ -40,33 +44,6 @@ This is my first Wordpress theme, free for use.
 | Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
 | Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
 | Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
-
-
-<!-- Env Variables -->
-### :key: Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`Visual studio code`
-`Wordpress`
-
-
-<!-- Getting Started -->
-## 	:toolbox: Getting Started
-
-<!-- Prerequisites -->
-### :bangbang: Prerequisites
-
-This project uses Yarn as package manager
-
-```bash
- npm install --global yarn
-```
-
-<!-- Installation -->
-### :gear: Installation
-
-Install my-project with npm
 
 
 Clone the project
