@@ -17,7 +17,7 @@ This is my first Wordpress theme, free for use.
 To run this project, you will need to add the following tools :
 
 <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
-<li><a href="https://wordpress.org/">Visual Studio Code</a></li>
+<li><a href="https://wordpress.org/">Wordpress</a></li>
 
 
 <!-- Features -->
