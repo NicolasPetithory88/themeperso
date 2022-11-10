@@ -14,18 +14,10 @@ This is my first Wordpress theme, free for use.
 <!-- Env Variables -->
 ### :key: Environment
 
-To run this project, you will need to add the following tools
+To run this project, you will need to add the following tools :
 
-`Visual studio code`
-`Wordpress`
-
-<details>
- 
-  <ul>
-    <li><a href="https://capitainewp.io/formations/developper-theme-wordpress/templates-parts">CAPITAINE WP</a></li>
-    <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
-  </ul>
-</details>
+<li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+<li><a href="https://wordpress.org/">Visual Studio Code</a></li>
 
 
 <!-- Features -->
